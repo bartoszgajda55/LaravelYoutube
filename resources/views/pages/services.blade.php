@@ -8,6 +8,6 @@
     <title>{{ config('app.name', 'Not Found') }}</title>
 </head>
 <body>
-    <h1>Welcome to About Page</h1>
+<h1>Welcome to Services Page</h1>
 </body>
 </html>
