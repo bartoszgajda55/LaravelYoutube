@@ -14,7 +14,7 @@
                 <li><a href="/tutorialyt/public">Home</a></li>
                 <li><a href="about">About</a></li>
                 <li><a href="services">Services</a></li>
-                <li><a href="posts">Blog</a></li>
+                <li><a href="/tutorialyt/public/posts">Blog</a></li>
             </ul>
             <ul class="nav navbar-nav navbar-right">
                 <li><a href="/tutorialyt/public/posts/create">Create Post</a></li>
