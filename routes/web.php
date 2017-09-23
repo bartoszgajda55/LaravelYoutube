@@ -30,3 +30,6 @@ Route::resource('posts', 'PostsController');
 //Route::get('/users/{id}/{name}', function ($id, $name) {
 //    return "ID - ".$id.", NAME - ".$name;
 //});
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');
