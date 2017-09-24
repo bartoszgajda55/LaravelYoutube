@@ -3,6 +3,7 @@
 @section('content')
     <a href="/LaravelYoutube/public/posts" class="btn btn-default">Go Back</a>
     <h1>{{ $post->title }}</h1>
+    <img style="width: 50%;" src="/LaravelYoutube/public/storage/cover_images/{{$post->cover_image}}" alt="">
     <div>
         {!! $post->body !!}
     </div>
